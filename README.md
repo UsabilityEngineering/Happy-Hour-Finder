@@ -4,9 +4,9 @@ The goal of this project is to create an application that will allow users to fi
 
 ## UX Team Members
 
-* **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey and on final portfolio.
-* **[Francisco Vara](!!!URL to Person B's published portfolio!!!)** - Created interview questions
-* **[Abigail Balbuena](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey, user stories and on the final portfolio.
+* **[Francisco Vara](!!!URL to Person B's published portfolio!!!)** - Created interview questions, etc
+* **[Abigail Balbuena](!!!URL to Person C's published portfolio!!!)** - Worked to create survey questions, etc
 
 # User-Centered Design Artifacts
  
@@ -19,9 +19,10 @@ The goal of this project is to create an application that will allow users to fi
 
 **Executive Summary**
 
-* Created a survey and set of questions to gather data about our users
-* Created scenarios and personas 
-* 
+* Created a survey and set of questions to gather data about our users.
+* Created user scenarios and personas. 
+* Analyzed the data and learned more about our end users.
+* Learned needs of the users. Along with additional requirements.
 
 
 
