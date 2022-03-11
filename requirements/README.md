@@ -21,3 +21,15 @@ The data certainly confirms the necessity for an app that looks for happy hour d
 We will also need to create a story of someone looking for morning deals, as there seems to be some users that will be using the app for both morning and night deals.
 
 ## Caveats
+
+This data is if not entirely, then almost entirely college students. This misses a significant portion of adults that will likely want to use our app. On top of that more responses will probably be needed and an interview or two to really understand why some people are choosing their bars. 
+
+## Personas
+
+## Scenarios
+
+## Supplementary Materials
+
+[Survey](https://docs.google.com/forms/d/e/1FAIpQLSeOe0aCICOChXJDNuxnm4w7Org8tlpt8m6O7VXp9xAB5jDijw/viewform?usp=sf_link)
+
+[Interview Questions](https://docs.google.com/document/d/1ldWJ0lFXGpPjRTCvls_5UNdKAQEl1CRnvbueHtA463E/edit?usp=sharing)
