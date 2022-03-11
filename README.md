@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# Happy Hour Finder
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project's vision!!!
+The goal of this project is to create an application that will allow users to find drink, food and other deals easily. Currently there is no good way to do this and we hope to make something every user can use.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey and on final portfolio.
+* **[Francisco Vara](!!!URL to Person B's published portfolio!!!)** - Created interview questions
+* **[Abigail Balbuena](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
@@ -21,10 +19,11 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Created a survey and set of questions to gather data about our users
+* Created scenarios and personas 
+* 
+
+
 
 [Full phase 1 report](requirements/)
 
