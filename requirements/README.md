@@ -26,6 +26,10 @@ This data is if not entirely, then almost entirely college students. This misses
 
 ## Personas
 
+Based on the findings of our survey we found three standout personas. The first persona was someone looking exclusively for deals on food. The top food results were for Burgers and Brew, Wing Stop and Applebee’s. These participants stated that BOGO deals and 60 cent wings were their favorite. The second persona we found was someone looking for exclusively for deals on drinks. Most participants said Riley’s Bar was the bar they were looking to find deals on drinks at also stating that “pitchers night” was their favorite. The third category is someone looking for food, drink and entertainment. The participant that wanted this result stated that food, drink and trivia night was their favorite deal. 
+
+All three of the personas were consistent in the resources they used to find happy hour deals, using Google or their friends. A large percentage of our participants were looking for deals at college bars, which is a good indication that all three personas were college age adults (18-24). 
+
 ## Scenarios
 
 ## Supplementary Materials
