@@ -5,13 +5,14 @@ The goal of this project is to create an application that will allow users to fi
 ## UX Team Members
 
 * **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey, user stories and on the final portfolio.
-* **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, wireframes
+* **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, wireframes, and interactive prototype.
 * **[Abigail Balbuena](!!!URL to Person C's published portfolio!!!)** - Worked to create survey questions, etc
 
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](requirements/personas.pdf) - Updated 4/21/2022
-* [Wireframes](https://xd.adobe.com/view/e85dab4b-1196-47e5-98c8-8be5b6fc4946-bd0e/) - Updated 4/21/2022
+* [Wireframes](/) - Updated 4/21/2022
+* [Prototype](https://xd.adobe.com/view/e85dab4b-1196-47e5-98c8-8be5b6fc4946-bd0e/) - Updated 4/21/2022
 * [Prototype](#) - Coming soon!
 
 # Phase 1: Requirements Gathering
@@ -27,14 +28,13 @@ The goal of this project is to create an application that will allow users to fi
 
 [Full phase 1 report](requirements/)
 
-# Phase 2: Interaction Design
+# Phase 2: User-Centered Design
 
 **Executive Summary**
 
-* 
-* 
-* 
-* 
+* Analyzed what the wireframes would need to accomplish user goals.
+* Created wireframes based on Personas, Scenarios and Data.
+* Created a full prototype for interacting with the website.
 
 [Full phase 2 report](design/)
 
