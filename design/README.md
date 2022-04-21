@@ -4,7 +4,7 @@
 
 Our wireframes were created with our Personas and Scenarios in mind. For example, let's start with Davis. Davis is a 20-year-old male that would like to see if Buffalo Wild Wings or Wingstop has a better deal. For this reason our wireframe includes a search bar so that Davis can quickly look up which place has the better deal.
 
-!(/Design/Search)
+![search bar](/design/Search.png)
 
 
 ## Supplementary Materials
