@@ -5,14 +5,13 @@ The goal of this project is to create an application that will allow users to fi
 ## UX Team Members
 
 * **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey, user stories and on the final portfolio.
-* **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, etc
+* **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, wireframes
 * **[Abigail Balbuena](!!!URL to Person C's published portfolio!!!)** - Worked to create survey questions, etc
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
-* [Wireframes](#) - Coming soon!
+* [Personas and Scenarios](requirements/Happy Hour Finder_ Personas & Scenarios (1).pdf) - Updated 4/21/2022
+* [Wireframes](https://xd.adobe.com/view/e85dab4b-1196-47e5-98c8-8be5b6fc4946-bd0e/) - Updated 4/21/2022
 * [Prototype](#) - Coming soon!
 
 # Phase 1: Requirements Gathering
@@ -32,10 +31,10 @@ The goal of this project is to create an application that will allow users to fi
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* 
+* 
+* 
+* 
 
 [Full phase 2 report](design/)
 
