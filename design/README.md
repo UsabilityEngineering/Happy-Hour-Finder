@@ -22,5 +22,5 @@ Finally let's talk about Ryan's scenario. Ryan is a 23-year-old male that would 
 
 [Link to the click through wireframes](https://xd.adobe.com/view/e85dab4b-1196-47e5-98c8-8be5b6fc4946-bd0e/grid)
 
-[Link to the pdf wireframes][wireframes_actions.pdf](https://github.com/UsabilityEngineering/Happy-Hour-Finder/files/8545924/wireframes_actions.pdf)
+[Link to the pdf wireframes](https://github.com/UsabilityEngineering/Happy-Hour-Finder/files/8545924/wireframes_actions.pdf)
 
