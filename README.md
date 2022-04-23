@@ -6,7 +6,7 @@ The goal of this project is to create an application that will allow users to fi
 
 * **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey, user stories and on the final portfolio.
 * **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, wireframes, and interactive prototype.
-* **[Abigail Balbuena](!!!URL to Person C's published portfolio!!!)** - Worked to create survey questions, etc
+* **[Abigail Balbuena]( https://usabilityengineering.github.io/ux-portfolio-Ab4002/)** - Worked to create survey questions, etc
 
 # User-Centered Design Artifacts
  
