@@ -12,7 +12,7 @@ Next let's look at Samantha, a 21-year-old female in Chico. Samantha would like 
 
 Finally let's talk about Ryan's scenario. Ryan is a 23-year-old male that would like to go to trivia night. Unfortunately, all of the trivia nights Ryan finds are past. For this situation we have created the filter button, Ryan can specify the filter for trivia nights and see exactly which places will have one coming up. This will allow Ryan and everyone else to quickly sort by just the deal they are looking for.
 
-[!filter](/design/https://user-images.githubusercontent.com/98430657/164866108-84db3590-086c-4a8d-a626-a6d6617786d2.jpg)
+![filter](/design/https://user-images.githubusercontent.com/98430657/164866108-84db3590-086c-4a8d-a626-a6d6617786d2.jpg)
 
 ## Wireframes and the data we collected.
 
