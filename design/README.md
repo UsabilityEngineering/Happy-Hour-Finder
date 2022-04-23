@@ -16,6 +16,11 @@ Finally let's talk about Ryan's scenario. Ryan is a 23-year-old male that would 
 
 ## Wireframes and the data we collected.
 
+The data collected from the wireframe was able to help us greater understand what needs to be implemented and what we have displayed correctly so far. Website documentation to help the user understand the Happy Hour Finder website will not be needed as the wireframes are made under the impression a website is being used. Our wireframe shows poor recovery and error recovery due to our designer thinking that implementing a back button for a website wireframe is not needed because the website itself will have this ability already. From the feedback collected, we are able to understand that some may not understand what the filter feature does and how our map is intended to work. As well as, people were able to understand that the search function is meant to search for a restaurant or deal. 
+
+Our Filter feature is intended to allow the user the ability to narrow the options available. In the wireframe, we display that a user wants only options of Trivia Night which would then cause the website to then only display restaurants and bars hosting a Trivia Night. 
+
+Our Map is planned to be displayed with icons to show the locations of the restaurants and bars. The first click on the map is intended to display the selecte restaurants or bars deals. The second click of the icon will then pull up the info on the location. 
 
 
 ## Supplementary Materials
