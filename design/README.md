@@ -4,15 +4,15 @@
 
 Our wireframes were created with our Personas and Scenarios in mind. For example, let's start with Davis. Davis is a 20-year-old male that would like to see if Buffalo Wild Wings or Wingstop has a better deal. For this reason our wireframe includes a search bar so that Davis can quickly look up which place has the better deal.
 
-![search bar](/design/Search.PNG)
+![Search](https://user-images.githubusercontent.com/78045519/164998194-467048de-a27f-428f-8394-bbad79773c39.png)
 
 Next let's look at Samantha, a 21-year-old female in Chico. Samantha would like to find out what time the deals at Crazy Horse start. For this task, we designed our wireframe to allow Samantha to click on a deal and see exactly what time it starts and ends.
 
-![deal time](/design/Time.PNG)
+![Time](https://user-images.githubusercontent.com/78045519/164998190-a936b4cb-1ade-4e5c-88f3-d682d4e9b189.png)
 
 Finally let's talk about Ryan's scenario. Ryan is a 23-year-old male that would like to go to trivia night. Unfortunately, all of the trivia nights Ryan finds are past. For this situation we have created the filter button, Ryan can specify the filter for trivia nights and see exactly which places will have one coming up. This will allow Ryan and everyone else to quickly sort by just the deal they are looking for.
 
-![filter](/design/filter.jpg)
+![filter](https://user-images.githubusercontent.com/78045519/164998182-4197b07b-698c-4ec1-856a-cd63ca93f673.jpg)
 
 ## Wireframes and the data we collected.
 
