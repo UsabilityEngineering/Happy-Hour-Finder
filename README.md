@@ -11,7 +11,7 @@ The goal of this project is to create an application that will allow users to fi
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](requirements/personas.pdf) - Updated 4/21/2022
-* [Wireframes](/design/wireframes_actions.pdf) - Updated 4/21/2022
+* [Wireframes](https://xd.adobe.com/view/e85dab4b-1196-47e5-98c8-8be5b6fc4946-bd0e/) - Updated 4/21/2022
 * [Final Prototype](https://xd.adobe.com/view/ca625da5-00e5-4232-9c01-4a47892d0320-9f31/) - Updated 5/16/2022
 
 # Phase 1: Requirements Gathering
