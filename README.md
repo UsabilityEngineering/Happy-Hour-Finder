@@ -4,16 +4,15 @@ The goal of this project is to create an application that will allow users to fi
 
 ## UX Team Members
 
-* **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey, user stories and on the final portfolio.
-* **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, wireframes, and interactive prototype.
-* **[Abigail Balbuena]( https://usabilityengineering.github.io/ux-portfolio-Ab4002/)** - Worked to create survey questions, etc
+* **[Mason Roe](https://mrroe08.github.io/UI-UX/)** - Worked to create survey, created protocol for evaluation, user stories and on the final portfolio.
+* **[Francisco Vara](https://usabilityengineering.github.io/ux-portfolio-fvaraenzo/)** - Created interview questions, wireframes, and interactive prototype, along with finalizing the prototype.
+* **[Abigail Balbuena]( https://usabilityengineering.github.io/ux-portfolio-Ab4002/)** - Worked to create survey questions, analyzed the data, and took majority of the evaluation notes.
 
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](requirements/personas.pdf) - Updated 4/21/2022
 * [Wireframes](/) - Updated 4/21/2022
-* [Prototype](https://xd.adobe.com/view/e85dab4b-1196-47e5-98c8-8be5b6fc4946-bd0e/) - Updated 4/21/2022
-* [Prototype](#) - Coming soon!
+* [Final Prototype](https://xd.adobe.com/view/ca625da5-00e5-4232-9c01-4a47892d0320-9f31/) - Updated 5/16/2022
 
 # Phase 1: Requirements Gathering
 
@@ -42,9 +41,10 @@ The goal of this project is to create an application that will allow users to fi
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Finalized the prototype.
+* Created a protocol for evaluation
+* Collected data by doing evaluation walkthroughs with other groups
+* Evaluated and analyzed the walkthrough data.
+
 
 [Full phase 3 report](evaluation/)
