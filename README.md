@@ -21,7 +21,9 @@ The goal of this project is to create an application that will allow users to fi
 * Created a survey and set of questions to gather data about our users.
 * Created user scenarios and personas. 
 * Analyzed the data and learned more about our end users.
-* Learned needs of the users. Along with additional requirements.
+* Learned that 60% of users look for deals, thus re-enforcing the need for the app.
+* Learned that 70% of users perferred a bar, while 30% wanted a brewery.
+* Learned additional needs.
 
 
 
